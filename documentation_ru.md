@@ -1,3 +1,13 @@
+  </div>
+  
+  <br />
+
+  <p>
+    <a href="https://github.com/FreesmTeam/Themes/blob/main/documentation.md">English</a> | <strong>Русский</strong><br />
+  </p>
+  
+</div>
+
 ## Как установить темы и иконки
 
 Вот вам сама инструкция по установке тем и иконок
