@@ -1,3 +1,13 @@
+  </div>
+  
+  <br />
+
+  <p>
+    <strong>English</strong> | <a href="https://github.com/FreesmTeam/Themes/blob/main/documentation_ru.md">Русский</a><br />
+  </p>
+  
+</div>
+
 ## How to install Themes & Icons
 
 Here are the instructions to get your themes & icons up and working.
